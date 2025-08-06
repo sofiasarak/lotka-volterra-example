@@ -106,3 +106,5 @@ ggplot(data = approx_lk_df, aes(x = time, y = population)) +
 What happens as you change the initial conditions and / or parameters (and re-run the entire code chunk)? How does that align with what you see in the graph? 
 
 It can be helpful to change just **one** value at a time and observe it's effects -- do the changes in predator / prey dynamics make sense, based on your changes?
+
+Sofia's bash notes: pwd tells you where you are, ls lists everything in your working directly, cd changes directly (have to specify), cd .. moves you one back. git status -> git add, with a . will add all the changes (aka staging). git command -m "message". git pull to pull, git push to push!
